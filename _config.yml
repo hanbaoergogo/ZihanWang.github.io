@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Zihan Wang"
-description              : &description "Master at UESTC"
+description              : &description ""
 url                      : https://hanbaoergogo.github.io/ZihanWang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
